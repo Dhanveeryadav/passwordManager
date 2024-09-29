@@ -8,7 +8,7 @@
 
 1. Clone the repository:
 
-    >git clone https://github.com/y our-repository/password-manager.git
+    git clone https://github.com/Dhanveeryadav/passwordManager.git
 
 2. Create virtual environment:
 
